@@ -1,3 +1,9 @@
+# React To-do list
+This project is based on the Todo app Redux tutorial from redux.js.org and has been extended with the 'Building React Applications with Idiomatic Redux' course (https://egghead.io/courses/building-react-applications-with-idiomatic-redux).
+
+------------------------------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
